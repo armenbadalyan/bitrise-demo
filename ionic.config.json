@@ -1,0 +1,7 @@
+{
+  "name": "bitrise-demo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
